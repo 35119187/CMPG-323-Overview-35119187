@@ -2,17 +2,18 @@
 This is the agile scrum project on IT development module.
 
 ## Project Repositories
-Project 1
+
+<b> Project 1 </b>
 <li> CMPG 323 Overview-35119187 </li>
 
-Project 2 
+<b> Project 2 </b> 
 <li> CMPG 323 Project 2-35119187 </li>
 
-project3
+<b> project 3 </b>
 <li> CMPG 323 Project 3- 35119187 </li>
 
-project 4
+<b> project 4 </b>
 <li> CMPG 323 Project 4- 35119187 </li>
 
-project 5
+<b> project 5 </b>
 <li> CMPG 323 Project 5- 35119187 </li>

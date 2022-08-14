@@ -17,3 +17,23 @@ This is the agile scrum project on IT development module.
 
 <b> project 5 </b>
 <li> CMPG 323 Project 5- 35119187 </li>
+
+# Branching strategy
+
+<b><li>main</b></li>
+There will be main branch whre the code and final product of the project will stored.
+
+<b><lidevelop</b></li>
+The develop branch will be created directly from the main branch. 
+Changes in the project will be made in this branch without affecting anything in the main branch.
+ 
+<b><liFeature</b></li>
+The feature that is being worked will have a proper description and name for the branch
+
+<b><liRelease</b></li>
+The features that have been designed in the develop branch will be contained for release.
+To update changes within the project, the push command will be used.
+Once the changes to the project are now ready to be used, pull request will be opened, then merged.
+
+<b><liHotfix</b></li>
+Issues that are being encountered within the project will solved in this branch.

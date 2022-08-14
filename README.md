@@ -37,3 +37,8 @@ Once the changes to the project are now ready to be used, pull request will be o
 
 <b><li>Hotfix</b></li>
 Issues that are being encountered within the project will solved in this branch.
+
+# The use of gitignore file
+
+It is used to not track generated files from project code  and don't upload them to the project repository
+The size of repository will be reasonable and it will have less issues

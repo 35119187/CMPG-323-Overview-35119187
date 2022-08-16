@@ -21,7 +21,9 @@ This is the agile scrum project on IT development module.
 ## Repository Explaination
 
 There will be only one project that contains repositories for every project in this module
-(https://user-images.githubusercontent.com/91702944/184867178-dcf15408-823e-4a32-9fb9-0bfcf91cf6af.PNG)
+(https://user-images.githubusercontent.com/91702944/184867178-dcf15408-823e-4a32-9fb9-0bfcf91cf6af.PNG).PNG
+
+![](Diagram.PNG)
 
 
 # Branching strategy

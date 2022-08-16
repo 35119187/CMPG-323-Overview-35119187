@@ -18,8 +18,9 @@ This is the agile scrum project on IT development module.
 <b> project 5 </b>
 <li> CMPG 323 Project 5- 35119187 </li>
 
-#Repository Explaination
-https://github.com/35119187/CMPG-323-Overview-35119187/issues/1#issue-1338337421
+## Repository Explaination
+(https://user-images.githubusercontent.com/91702944/184867178-dcf15408-823e-4a32-9fb9-0bfcf91cf6af.PNG)
+
 
 # Branching strategy
 

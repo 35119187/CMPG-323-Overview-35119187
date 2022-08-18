@@ -1,5 +1,5 @@
 # CMPG-323-Overview-35119187
-This is the agile scrum project on IT development module.
+This is the repository for project 1. It provides an overview and planning of my work will be managed throughout the semester.
 
 ## Project Repositories
 
@@ -36,8 +36,8 @@ To allow my files to be copied to other directories, branches will be used inste
 
 
 # The use of gitignore file
-
-It is used to not track generated files from project code  and don't upload them to the project repository
+To avoid files that are not important to be generated to the repository the gitignore file will be used.
+It will be used to not track generated files from project code  and don't upload them to the project repository
 The size of repository will be reasonable and it will have less issues
 
 # Storage of Sensitive Information and credentials

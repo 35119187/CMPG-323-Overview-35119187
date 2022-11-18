@@ -4,19 +4,19 @@ This is the repository for project 1. It provides an overview and planning of my
 ## Project Repositories
 
 <b> Project 1 </b>
-<li> CMPG 323 Overview-35119187 <a href "https://github.com/35119187/CMPG-323-Overview-35119187.git"></li></a>
+<li> CMPG 323 Overview-35119187-https://github.com/35119187/CMPG-323-Overview-35119187.git</li></a>
 
 <b> Project 2 </b> 
 <li> CMPG 323 Project 2-35119187-https://github.com/35119187/CMPG-323-Project2-35119187.git</li></a>
 
 <b> project 3 </b>
-<li> CMPG 323 Project 3- 35119187<a>https://github.com/35119187/CMPG-323-Project3-35119187.git </a></li>
+<li> CMPG 323 Project 3- 35119187-https://github.com/35119187/CMPG-323-Project3-35119187.git</li></a>
 
 <b> project 4 </b>
-<li> CMPG 323 Project 4- 35119187 <a>https://github.com/35119187/CMPG323-Project4-35119187.git</a></li>
+<li> CMPG 323 Project 4- 35119187-https://github.com/35119187/CMPG323-Project4-35119187.git</li></a>
 
 <b> project 5 </b>
-<li> CMPG 323 Project 5- 35119187<a>https://github.com/35119187/CMPG-323-Project5-35119187.git</a></li>
+<li> CMPG 323 Project 5- 35119187-https://github.com/35119187/CMPG-323-Project5-35119187.git</li></a>
 
 ## Repository Explaination
 
@@ -46,5 +46,4 @@ Sensitive information and credentials about my project will secured using github
 
 The secret feature will be enabled in the management tool to store all my sensitive information such as credentials, API keys and public profile of my web app.
 The secret will help to encrypt my data before it reachces my github and make sure that it remain encrypted until being ready to be used 
-
 

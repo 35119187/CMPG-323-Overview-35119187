@@ -4,19 +4,19 @@ This is the repository for project 1. It provides an overview and planning of my
 ## Project Repositories
 
 <b> Project 1 </b>
-<li> CMPG 323 Overview-35119187 </li>
+<li> CMPG 323 Overview-35119187 <a>https://github.com/35119187/CMPG-323-Overview-35119187.git</a></li>
 
 <b> Project 2 </b> 
-<li> CMPG 323 Project 2-35119187 </li>
+<li> CMPG 323 Project 2-35119187 <a>https://github.com/35119187/CMPG-323-Project2-35119187.git</a></li>
 
 <b> project 3 </b>
-<li> CMPG 323 Project 3- 35119187 </li>
+<li> CMPG 323 Project 3- 35119187<a>https://github.com/35119187/CMPG-323-Project3-35119187.git</a> </li>
 
 <b> project 4 </b>
-<li> CMPG 323 Project 4- 35119187 </li>
+<li> CMPG 323 Project 4- 35119187 <a>https://github.com/35119187/CMPG323-Project4-35119187.git</a></li>
 
 <b> project 5 </b>
-<li> CMPG 323 Project 5- 35119187 </li>
+<li> CMPG 323 Project 5- 35119187<a>https://github.com/35119187/CMPG-323-Project5-35119187.git</a></li>
 
 ## Repository Explaination
 
